@@ -1,0 +1,82 @@
+{
+  "116_3.png531600": {
+    "filename": "116_3.png",
+    "size": 531600,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            156,
+            176,
+            316,
+            316,
+            202
+          ],
+          "all_points_y": [
+            182,
+            304,
+            300,
+            168,
+            118
+          ]
+        },
+        "region_attributes": {
+          "name": "not_defined",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "biden.png2492463": {
+    "filename": "biden.png",
+    "size": 2492463,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            630,
+            1148,
+            1115,
+            758,
+            558,
+            630
+          ],
+          "all_points_y": [
+            927,
+            891,
+            521,
+            421,
+            736,
+            930
+          ]
+        },
+        "region_attributes": {
+          "name": "not_defined",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  }
+}
